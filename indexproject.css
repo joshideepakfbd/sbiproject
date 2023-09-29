@@ -61,7 +61,7 @@ ul li:last-child{
 
 .container{
    max-width: 1200px;
-    width:100%;
+
     height: auto;
     border:  1px solid red;
     box-sizing: border-box;
@@ -492,7 +492,7 @@ text{
     
 }
 .image-box img{
-    width: 1200px;
+   max-width: 1200px;
     height: 300px;
     float: left;
 
