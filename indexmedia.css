@@ -1,0 +1,244 @@
+@media screen and (max-width:900px){
+    
+    .container{
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+        
+    
+  .logo{
+    width: 99vw;
+    margin-left: 0px;
+
+  }
+
+    .sbi{
+        margin-right: 0px;
+        
+    }
+    .navbar ul{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100vw;
+        text-align: center;
+        justify-content: center;
+        margin-left: 0px;
+         background-color: #0c376a;;
+        height: auto;
+    
+        
+    
+    
+    }
+    .navbar li{
+    
+        height: 80px;
+    }
+    
+
+    .text-animation{
+        width: 100%;
+        margin-top: 90px;
+    }
+    .login-page-paragraph{
+        width: 50vw;
+        padding-right: 300px;
+    
+    }
+    .sbi-paragraph{
+        width: 50vw;
+        padding-right: 300px;
+    }
+    .banking-section{
+        width: 100%;
+        flex-direction: column;
+    
+    
+        
+    }
+    .personal-banking{
+        width: 97vw;
+        margin-left: 0px;
+        border: 1px solid lightgray;
+
+        
+    }
+    
+    
+    .yono-sbi-business{
+        width: 97vw;
+        margin-left: 0px;
+        border: 1px solid lightgray;
+        
+    }
+    .slider{
+        display: none;
+    }
+
+
+
+
+    .marquee{
+        width: 100vw;
+        margin-left: 0px;
+        border: 1px  solid lightgray;
+    }
+    .navbar-nav{
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin-right: 750px;
+    }
+    .navbar-nav div {
+        margin-right: 200px;
+    }
+   .extra-link{
+    width: 50vw;
+    margin-left: 200px;
+  }
+  .image-box{
+    width: 100vw;
+    margin-left: 0px;
+  }
+  .footer{
+    width: 100vw;
+    margin-left: 0px;
+    flex-direction: column;
+    text-align: center;
+}
+    .sbi-footer{
+        margin-top: 80px;
+        margin-left: 100px;
+
+        
+    }
+    .sbi-bank-footer{
+        margin-top: 20px;
+    }
+    .sbi-bank-footer span{
+        margin-top: 20px;
+      
+        
+    }
+    .footer-img{
+        display: block;
+        margin-top: 20px;
+    }
+    .footer-img img{
+        width: 50px;
+        height: 40px;
+        padding: 10px;
+    }
+    .rbi-portal{
+        margin-left: 0px;
+    }
+}
+@media  screen and  (max-width:600px){
+   
+    
+    .navbar li{
+        display: none;
+
+    }
+    
+    .rbi-portal{
+        margin-left: 0px;
+    }
+
+    .navbar{
+        width: 99vw;
+        margin-left: 0px;
+
+    }
+    .navbar  ul{
+        width: 99vw;
+
+    }
+    .navbar h1{
+        padding-left: 930px;
+        color: white;
+        display: block;
+    
+    }
+    .text-animation{
+        width: 70vw;
+        margin-left: 0px;
+        padding-left: 180px;
+    }
+    .login-page-paragraph{
+        width: 50vw;
+    }
+    .sbi-paragraph{
+        width: 50vw;
+    }
+    .logo{
+        width: 99vw;
+    }
+
+    
+    .extra-link {
+        padding-left: 10px;
+        
+    }
+}
+
+
+    @media screen and (max-width:400px) {
+        
+        .navbar h1{
+            padding-left: 20px;
+            display: block;
+            color: white;
+        }
+        
+        .logo img{
+        margin-top: 10px;
+        height: 40px;
+        }
+        .sbi{
+            height: 80px;
+            margin-top: 10px;
+        }
+        .text-animation
+        {
+            width: 55vw;
+        
+        }
+        
+        .login-page-paragraph{
+            margin-right: 90px;
+        
+            
+            
+        }
+
+
+        .sbi-paragraph{
+            padding-left: 50px;
+        
+        }
+        .personal-banking{
+            margin-left: 0px;
+            
+        }
+        .yono-sbi-business{
+            margin-left: 0px;
+        }
+        .image-box{
+            width: 100vw;
+        }
+        .extra-link{
+            padding-right: 150px;
+        }
+        .rbi-portal{
+            margin-left: 0px;
+        }
+        }
+
+        
+        
+    
+
+  
+
+  
+
